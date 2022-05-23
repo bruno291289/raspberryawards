@@ -11,7 +11,7 @@ Teste de requisitos backend
 #### ![image](https://user-images.githubusercontent.com/2281527/169886855-a48a27ea-4729-49cf-ace9-c07a58bf5bfb.png)
 ### 3.2- No Eclipse, vá para a opção File -> Import -> Existing Maven Project, depois selecione a pasta baixada.
 #### ![image](https://user-images.githubusercontent.com/2281527/169887236-9dfa50fa-803e-47cd-aba9-8c1214acf350.png)
-### 3.3- Para rodar o projeto, selecione ele e depois clique em Run:
+### 3.3- Para rodar o projeto, selecione-o e depois clique em Run:
 #### ![image](https://user-images.githubusercontent.com/2281527/169887598-2691a8c5-cab0-4283-9b2d-2810b07c8b6c.png)
 ## 4- Testar chamada do serviço REST
 ### 4.1- Baixe algum client de serviço REST, como no caso o POSTMAN
