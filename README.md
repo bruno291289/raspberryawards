@@ -27,8 +27,7 @@ Teste de requisitos backend
 #### ![image](https://user-images.githubusercontent.com/2281527/169890585-8db60569-15f9-4543-8a0b-2e94ebdf1e21.png)
 #### ![image](https://user-images.githubusercontent.com/2281527/169890652-d15cd50a-82eb-4c0e-bcaa-060569d17467.png)
 ## 6- Dados a serem trabalhados
-### 6.1- Para testes foi utilizado o .csv passado no desafio, e apenas adicionei duas linhas para poder criar mais exemplos dos que estavam presentes no arquivo:
-#### ![image](https://user-images.githubusercontent.com/2281527/169890964-199afb42-9c30-4fcd-afa8-87964dac5573.png)
+### 6.1- Para testes foi utilizado o .csv passado no desafio.
 ### 6.2- Para alterá-lo ou utilizar outra massa de dados, basta substituir as informações do arquivo em .csv [...\raspberryawards\src\main\resources\movielist.csv]
 #### ![image](https://user-images.githubusercontent.com/2281527/169891214-9fcae0a5-ff2d-4ba1-a860-d8354ba00081.png)
 
