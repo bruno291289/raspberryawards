@@ -56,7 +56,7 @@ public class MovieService {
             	String linha = Arrays.toString(strings);
             	linha = linha.substring(1, linha.length()-1);
             	//System.out.println(linha);
-				movies.add(new Movie().loadFromCsvString(linha));
+				movies.addAll(Movie.loadManyFromCsvString(linha));
 			}
             
             //for (Movie movie : movies) {
