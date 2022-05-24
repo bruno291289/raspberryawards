@@ -69,7 +69,7 @@ public class Movie implements Serializable {
 		if(length >= 3)
 			movie.studios = columns[2];
 		if(length >= 4)
-			movie.producers = columns[3];
+			movie.producers = columns[3].trim();
 		if(length >= 5)
 			movie.winner = columns[4];
 		
@@ -83,7 +83,7 @@ public class Movie implements Serializable {
 		if (movie.hasManyProducers()) {
 			for (String producer : movie.getProducersList()) {
 				Movie m = movie.copyAndPaste();
-				m.setProducers(producer);
+				m.setProducers(producer.trim());
 				movies.add(m);
 			}
 		} else {
