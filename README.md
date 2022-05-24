@@ -17,7 +17,7 @@ Teste de requisitos backend
 ### 4.1- Baixe algum client de serviço REST, como no caso o POSTMAN
 #### https://www.postman.com/downloads/
 ### 4.2- Crie uma requisição GET para o seguinte caminho http://localhost:8080/movies/intervalawards
-#### ![image](https://user-images.githubusercontent.com/2281527/169896554-59e01bb5-0871-4818-b01c-e2c256d299d2.png)
+#### ![image](https://user-images.githubusercontent.com/2281527/170038895-7f8606d7-6588-45cb-800f-430d67be49be.png)
 ## 5- Rodar testes unitários 
 ### 5.1- Selecione o projeto [sendo IDE Eclipse] -> botão direito -> Run As -> JUnit Tests
 #### ![image](https://user-images.githubusercontent.com/2281527/169889971-87cc6342-96a2-4f05-afa2-46242a41e396.png)
